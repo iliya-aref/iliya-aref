@@ -33,7 +33,7 @@
 
 <!-- Greeting -->
 </h1>
-<h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
+<h1 align="center">Namaste 🙏 I'm iliya arefkhani</h1>
 
 <h4 align="left">🌟 I’m currently diving into the world of Computer Science — sharpening my programming skills and exploring different areas within the tech industry. My learning path is all about building a solid foundation in software development while staying curious about cutting-edge technologies. I’m especially passionate about Artificial Intelligence and Machine Learning, and I’m working toward building a career that allows me to grow and contribute in those exciting fields.</h4>
 
